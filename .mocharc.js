@@ -1,4 +1,4 @@
-// .mocharc.js - Mocha config file change angain again
+// .mocharc.js - Mocha config file change
 const {colors, symbols} = 
   require('mocha/lib/reporters/base');
 // Change the default console UI colors
